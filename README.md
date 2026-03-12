@@ -143,3 +143,13 @@ Considerando:
 - comportamentos inesperados
 
 ---
+
+# 6. Cenários, Casos de Teste e Bugs Report
+
+Os cenários e casos de teste foram documentados na planilha abaixo:
+
+[Planilha casos de teste](https://docs.google.com/spreadsheets/d/17iq2LDvsV4VmIwT0kCr4CoUbIBxb3e1tkAB0Ot6Y7RU/edit?gid=0#gid=0)   
+
+[Planilha de bugs report](https://docs.google.com/spreadsheets/d/17iq2LDvsV4VmIwT0kCr4CoUbIBxb3e1tkAB0Ot6Y7RU/edit?gid=181569196#gid=181569196)
+
+---
