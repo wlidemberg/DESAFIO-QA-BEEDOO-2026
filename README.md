@@ -150,7 +150,7 @@ Os cenários e casos de teste foram documentados na planilha abaixo:
 
 [Planilha casos de teste](https://docs.google.com/spreadsheets/d/17iq2LDvsV4VmIwT0kCr4CoUbIBxb3e1tkAB0Ot6Y7RU/edit?gid=0#gid=0)   
 
-[Planilha de bugs report](https://docs.google.com/spreadsheets/d/17iq2LDvsV4VmIwT0kCr4CoUbIBxb3e1tkAB0Ot6Y7RU/edit?gid=181569196#gid=181569196)
+[Evidêcias de Casos de Teste](https://drive.google.com/drive/folders/1JgAaYMr2DX_ez8rox46gSYQxitI22MFP?usp=sharing)
 
 ---
 
@@ -170,9 +170,11 @@ Evidencias estão na pasta evidencias/testes e evidencias/bugs e nas planilhas a
 
 Durante a execução dos testes foram identificados diversos problemas no sistema.
 
-Os bugs estão documentados na planilha:
+Os bugs estão documentados na planilha:  
 
-[Planilha de bug reports](https://docs.google.com/spreadsheets/d/17iq2LDvsV4VmIwT0kCr4CoUbIBxb3e1tkAB0Ot6Y7RU/edit?gid=181569196#gid=181569196)
+[Planilha de bugs report](https://docs.google.com/spreadsheets/d/17iq2LDvsV4VmIwT0kCr4CoUbIBxb3e1tkAB0Ot6Y7RU/edit?gid=181569196#gid=181569196)
+
+[Evidência de bugs report](https://drive.google.com/drive/folders/12TOlsa2Z-hkl90QbudKtHluRNiA3XKXQ?usp=sharing)
 
 ---
 
