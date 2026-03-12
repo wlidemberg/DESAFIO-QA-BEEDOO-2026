@@ -113,3 +113,33 @@ Esses testes são importantes pois campos sem sanitização podem permitir execu
 SQL Injection **não foi testado**, pois a aplicação não demonstra possuir integração com banco de dados ou backend que execute consultas SQL.
 
 ---
+
+# 5. Estratégia de Testes
+
+A estratégia utilizada foi baseada em:
+
+### Exploratory Testing
+
+Primeiramente foi realizada uma exploração da aplicação para compreender:
+
+- funcionalidades disponíveis
+- fluxos do sistema
+- comportamento da interface
+
+---
+
+### Test Design
+
+Após a exploração foram criados:
+
+- cenários de teste
+- casos de teste detalhados
+
+Considerando:
+
+- fluxo principal
+- cenários negativos
+- validações de campos
+- comportamentos inesperados
+
+---
