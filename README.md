@@ -165,3 +165,13 @@ Evidências da execução:
 Evidencias estão na pasta evidencias/testes e evidencias/bugs e nas planilhas acima relacionada com seus respectivos casos de testes e bugs
 
 ---
+
+# 8. Bugs Encontrados
+
+Durante a execução dos testes foram identificados diversos problemas no sistema.
+
+Os bugs estão documentados na planilha:
+
+[Planilha de bug reports](https://docs.google.com/spreadsheets/d/17iq2LDvsV4VmIwT0kCr4CoUbIBxb3e1tkAB0Ot6Y7RU/edit?gid=181569196#gid=181569196)
+
+---
