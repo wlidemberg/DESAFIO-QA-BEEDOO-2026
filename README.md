@@ -53,3 +53,63 @@ Durante a análise exploratória foram identificados os seguintes fluxos princip
 3. O sistema remove o curso da lista
 
 ---
+
+# 4. Pontos Críticos do Sistema
+
+Durante a análise foram identificadas áreas que exigem maior atenção durante os testes.
+
+### 1️ Validação de Formulário
+
+O formulário de cadastro é responsável pela integridade dos dados cadastrados.
+
+Campos analisados:
+
+- Nome do curso
+- Descrição
+- Data de início
+- Data de fim
+- Quantidade de vagas
+- Imagem
+
+Problemas de validação podem causar:
+
+- Dados inválidos
+- Informações incompletas
+- Inconsistência no sistema
+
+---
+
+### 2️ Persistência dos dados
+
+Após o cadastro, o curso deve aparecer corretamente na listagem.
+
+Riscos:
+
+- Cadastro não persistido
+- Dados inconsistentes
+
+---
+
+### 3️ Exclusão de cursos
+
+A exclusão deve remover o curso da listagem.
+
+Riscos:
+
+- Exclusão falsa
+- Falha na atualização da interface
+
+---
+
+### 4️ Segurança de entrada de dados
+
+Todos os campos de entrada foram testados contra:
+
+- **XSS (Cross-Site Scripting)**
+- **Injeção de HTML**
+
+Esses testes são importantes pois campos sem sanitização podem permitir execução de código malicioso.
+
+SQL Injection **não foi testado**, pois a aplicação não demonstra possuir integração com banco de dados ou backend que execute consultas SQL.
+
+---
