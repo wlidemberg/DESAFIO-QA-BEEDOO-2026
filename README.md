@@ -153,3 +153,15 @@ Os cenários e casos de teste foram documentados na planilha abaixo:
 [Planilha de bugs report](https://docs.google.com/spreadsheets/d/17iq2LDvsV4VmIwT0kCr4CoUbIBxb3e1tkAB0Ot6Y7RU/edit?gid=181569196#gid=181569196)
 
 ---
+
+# 7. Execução dos Testes
+
+Os testes foram executados manualmente na aplicação.
+
+Os resultados foram registrados na planilha de testes.
+
+Evidências da execução:
+
+Evidencias estão na pasta evidencias/testes e evidencias/bugs e nas planilhas acima relacionada com seus respectivos casos de testes e bugs
+
+---
