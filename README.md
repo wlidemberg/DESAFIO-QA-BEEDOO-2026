@@ -175,3 +175,14 @@ Os bugs estão documentados na planilha:
 [Planilha de bug reports](https://docs.google.com/spreadsheets/d/17iq2LDvsV4VmIwT0kCr4CoUbIBxb3e1tkAB0Ot6Y7RU/edit?gid=181569196#gid=181569196)
 
 ---
+
+# 9. Considerações Finais
+
+A aplicação apresenta diversas falhas relacionadas a:
+
+- validação de dados
+- segurança
+- inconsistência funcional
+- responsividade
+
+Esses problemas indicam necessidade de melhorias no tratamento de dados de entrada e no controle das ações do usuário.
